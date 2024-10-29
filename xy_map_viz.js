@@ -5,7 +5,7 @@ looker.plugins.visualizations.add({
     image_url: {
       type: "string",
       label: "Map Image URL",
-      default: "https://images.app.goo.gl/Qa97W1g1ci1m1E2S6",  // Default image URL
+      default: "https://ormedinat.github.io/vis_test/nature-conservation-4352793_1280.jpg",  // Default image URL
     },
     marker_color: {
       type: "string",
